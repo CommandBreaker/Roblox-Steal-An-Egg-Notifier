@@ -190,7 +190,12 @@ Then place your mouse at the required position in the game.
 
 Set OP Auto Clicker to a 3-second click interval and move your mouse to the location shown below.
 
-[YOUR OP AUTO CLICKER SCREENSHOT HERE]
+⚠️ Important
+
+We do this cuz we need to chat be always visible and your pc is not going to sleep mode so use exact same location.
+
+<img width="2560" height="1600" alt="RobloxPlayerBeta_YVT0VO3L8m" src="https://github.com/user-attachments/assets/11521d33-c23e-43f6-981e-1fac0546caa2" />
+
 
 4️⃣ 🎮 Roblox Camera Setup
 
@@ -200,7 +205,8 @@ Move your camera down so that unnecessary background text does not cover the are
 
 📸 Example
 
-[YOUR ROBLOX CAMERA EXAMPLE HERE]
+<img width="2560" height="1600" alt="RobloxPlayerBeta_sRORMLJyTx" src="https://github.com/user-attachments/assets/6b441c3e-03fe-41de-b543-0f14a32e3805" />
+
 
 💡 The clearer the text is, the easier it is for OCR to recognize the egg.
 
@@ -266,11 +272,6 @@ means all three egg types.
 You can choose a delay between:
 
 0 - 10 seconds
-
-
-Default:
-
-5 seconds
 
 ⚙️ Configuration
 
