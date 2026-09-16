@@ -52,7 +52,7 @@ Egg	Detection
 <div align="center">
 🚀 Ready to use — no installation required!
 
-You don't need Python or any additional dependencies.
+You don't need Python 3.9 or any additional dependencies.
 
 <a href="../../releases"> <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20LATEST%20RELEASE-8A2BE2?style=for-the-badge&logo=github" alt="Download"> </a>
 
@@ -366,7 +366,7 @@ The latest compiled version is available in the Releases section.
 
 You don't need:
 
-❌ Python
+❌ Python 3.9
 
 ❌ pip
 
